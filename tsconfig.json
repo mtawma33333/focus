@@ -1,0 +1,4 @@
+{
+  "extends": "@focus/config/typescript/node.json",
+  "include": ["vite.config.ts"]
+}
